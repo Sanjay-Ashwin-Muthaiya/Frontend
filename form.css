@@ -130,11 +130,15 @@ input {
   border-radius: 5%;
   background-color: #bce2c5;
 }
+input:focus {
+  background-color: #63e467;
+  transition: background-color 1s ease-in;
+}
 button {
   padding: 10px 20px;
   border: 2px solid #ccc;
   border-radius: 50px;
-  background-color: #4caf50;
+  background-color: #8fab90;
   color: white;
   font-size: 18px;
   line-height: 12px;
@@ -142,6 +146,11 @@ button {
   margin-bottom: 12px;
   margin-left: 10px;
   margin-right: 10px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #4caf50;
 }
 body {
   background-color: #2a78c2;
@@ -156,9 +165,10 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 8%;
+  border: 3px solid #000000;
+  border-radius: 20px;
 }
 h1{
-   /*  color: #2a78c2; */
     font-size: 30px;
     font-weight: 800;
     margin: 2% 0;
