@@ -1,0 +1,265 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.landing_header {
+  width: 1440px;
+  height: 60px;
+}
+
+.landing_para {
+  font-family: "Roboto";
+  font-weight: 900;
+  font-size: 26px;
+  line-height: 38px;
+  color: #37447e;
+  width: 95px;
+  height: 38px;
+  top: 12px;
+  left: 681px;
+  position: absolute;
+}
+
+.nav_div {
+  top: 18px;
+  position: relative;
+  display: inline;
+}
+
+.nav_text {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #505f98;
+  display: inline;
+  position: relative;
+}
+.home {
+  left: 165px;
+}
+.about {
+  left: 263px;
+}
+.contact {
+  left: 361px;
+}
+
+.buy_button {
+  width: 160px;
+  height: 26px;
+  top: 18px;
+  left: 1115px;
+  background-color: #111b47;
+  border-radius: 2px;
+  position: absolute;
+}
+.buy_button_text {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  align-content: center;
+  color: #ffffff;
+}
+
+.design_image {
+  width: 1024.03px;
+  height: 1161px;
+  top: -49px;
+  left: 417.29px;
+  position: absolute;
+  z-index: -1;
+  opacity: 50%;
+}
+
+.hero_content {
+  width: 539.37px;
+  height: 421px;
+  top: 303px;
+  left: 163.21px;
+  position: relative;
+}
+.hero_content_title {
+  width: 539px;
+  height: 132px;
+}
+.hero_content_title p {
+  color: #091133;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 66px;
+  position: absolute;
+}
+
+.hero_content_body {
+  width: 539px;
+  height: 164px;
+  top: 152px;
+}
+
+.hero_content_body p {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #505f98;
+  position: absolute;
+}
+
+.purchase_button{
+    width: 189px;
+    height: 36px;
+    border-radius: 2px;
+    background-color: #111B47;
+    position: relative;
+    margin-top: 69px;
+}
+.purchase_button p{
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    top: 5px;
+}
+.learn_more_button{
+    width: 189.13px;
+    top: 688px;
+    height: 36px;
+    left: 382.27px;
+    background-color: #FFFFFF;
+    margin-left: 30px;
+}
+.learn_more_button p{
+    color: #091133;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    top: 7px;
+}
