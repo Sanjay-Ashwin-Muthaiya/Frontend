@@ -169,6 +169,15 @@ table {
 .contact {
   left: 361px;
 }
+.custom-font-family {
+  font-family: "Roboto";
+}
+.custom_font_weight_400 {
+  font-weight: 400;
+}
+.custom_font_weight_500 {
+  font-weight: 500;
+}
 
 .buy_button {
   width: 160px;
@@ -180,15 +189,13 @@ table {
   position: absolute;
 }
 .buy_button_text {
-  font-family: "Roboto";
-  font-weight: 500;
   font-size: 12px;
   line-height: 18px;
   align-content: center;
   color: #ffffff;
 }
 
-.design_image {
+.hero_image {
   width: 1024.03px;
   height: 1161px;
   top: -49px;
@@ -225,8 +232,6 @@ table {
 }
 
 .hero_content_body p {
-  font-family: "Roboto";
-  font-weight: 400;
   font-size: 18px;
   line-height: 30px;
   color: #505f98;
@@ -243,8 +248,6 @@ table {
 }
 .purchase_button p {
   color: #ffffff;
-  font-family: "Roboto";
-  font-weight: 500;
   font-size: 16px;
   line-height: 26px;
   text-align: center;
@@ -260,8 +263,6 @@ table {
 }
 .learn_more_button p {
   color: #091133;
-  font-family: "Roboto";
-  font-weight: 500;
   font-size: 16px;
   line-height: 26px;
   text-align: center;
@@ -280,7 +281,6 @@ table {
   justify-content: center;
 }
 .footer_landing {
-  font-family: "Roboto";
   font-size: 26px;
   font-weight: 900;
   line-height: 38px;
@@ -293,8 +293,6 @@ table {
   margin: 0;
 }
 .text-copyright {
-  font-family: "Roboto";
-  font-weight: 400;
   font-size: 14px;
   color: #939ea4;
   width: 133px;
@@ -383,9 +381,7 @@ table {
 }
 
 .first_section h2 {
-  font-family: Roboto;
   font-size: 36px;
-  font-weight: 500;
   line-height: 48px;
   text-align: left;
   text-underline-position: from-font;
@@ -394,9 +390,7 @@ table {
 }
 
 .first_section p {
-  font-family: Roboto;
   font-size: 16px;
-  font-weight: 400;
   line-height: 26px;
   text-align: left;
   text-underline-position: from-font;
@@ -414,9 +408,7 @@ table {
 }
 
 .second_section_heading {
-  font-family: Roboto;
   font-size: 16px;
-  font-weight: 500;
   line-height: 26px;
   text-align: left;
   text-underline-position: from-font;
@@ -426,9 +418,7 @@ table {
 }
 
 .second_section_para {
-  font-family: Roboto;
   font-size: 12px;
-  font-weight: 400;
   line-height: 18px;
   text-align: left;
   text-underline-position: from-font;
