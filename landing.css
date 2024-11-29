@@ -300,7 +300,6 @@ table {
   display: flex;
   justify-content: space-between;
   margin-top: 20px;
-  margin-bottom: 32px;
 }
 .footer_nav_container ul {
   display: flex;
