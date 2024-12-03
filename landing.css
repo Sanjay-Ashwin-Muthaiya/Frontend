@@ -155,6 +155,8 @@ table {
 
 .header_tag {
   height: 60px;
+  position: fixed;
+  top: 0;
 }
 
 .landing_para {
@@ -165,7 +167,7 @@ table {
   margin-left: 50px;
 }
 .buy_button {
-  margin-left: auto;
+  margin-left: 361px;
   margin-top: 12px;
   background-color: #111b47;
 }
