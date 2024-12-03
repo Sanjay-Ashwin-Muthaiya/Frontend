@@ -263,6 +263,7 @@ table {
   width: 540px;
   left: 735px;
   top: 1219px;
+  z-index: -1;
 }
 .footer_wrapper {
   background-color: #e7ecff;
