@@ -326,6 +326,8 @@ table {
   margin-left: 30px;
 }
 
+
+/* Tab vew screen */
 @media (max-width: 600px) {
   .nav_container {
     flex-direction: column;
@@ -407,5 +409,14 @@ table {
     position: absolute;
     width: 340px;
     left: 535px;
+  }
+  .footer_first{
+    margin-left: 235px;
+  }
+  .footer_second{
+    margin-left: -600px;
+  }
+  .footer_nav_container ul{
+    flex-direction: column;
   }
 }
