@@ -328,7 +328,7 @@ table {
 
 
 /* Tab vew screen */
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .nav_container {
     flex-direction: column;
     align-items: center;
